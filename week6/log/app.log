@@ -1,0 +1,8 @@
+[INFO] Mon May 12 21:06:33 2025
+ log.c:51: This is an info message.
+[DEBUG] Mon May 12 21:06:33 2025
+ log.c:51: This is a debug message.
+[INFO] Mon May 12 21:06:33 2025
+ log.c:82: This is a duplicate message.
+[DEBUG] Mon May 12 21:06:35 2025
+ log.c:82: This is a flood message.
