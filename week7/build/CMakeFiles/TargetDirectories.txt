@@ -1,0 +1,5 @@
+/mnt/hgfs/zhouqian/log/build/CMakeFiles/log_lib.dir
+/mnt/hgfs/zhouqian/log/build/CMakeFiles/log_test.dir
+/mnt/hgfs/zhouqian/log/build/CMakeFiles/test.dir
+/mnt/hgfs/zhouqian/log/build/CMakeFiles/edit_cache.dir
+/mnt/hgfs/zhouqian/log/build/CMakeFiles/rebuild_cache.dir

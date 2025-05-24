@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblog_lib.a CMakeFiles/log_lib.dir/mnt/hgfs/zhouqian/log/src/log.c.o CMakeFiles/log_lib.dir/mnt/hgfs/zhouqian/log/src/log_utils.c.o
+/usr/bin/ranlib liblog_lib.a
